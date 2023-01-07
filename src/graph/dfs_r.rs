@@ -28,3 +28,6 @@ fn main() {
   dfs(0, &list, &mut vis);
   println!("{:?}", vis);
 }
+
+
+// ref: https://atcoder.jp/contests/abc277/submissions/37784742
