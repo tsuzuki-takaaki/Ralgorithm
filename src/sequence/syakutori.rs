@@ -1,4 +1,5 @@
 // 尺取法
+// ref: https://atcoder.jp/contests/abc130/tasks/abc130_d, https://onlinejudge.u-aizu.ac.jp/problems/DSL_3_C
 
 // 長さnの数列aで、al + al+1 + ... + ar-1 + ar <= tを満たす整数(l, r)の組み合わせ
 fn main() {
