@@ -1,5 +1,6 @@
 // めぐる式二分探索でlower_bound
 // ref: https://qiita.com/drken/items/97e37dd6143e33a64c8c
+// example: https://atcoder.jp/contests/abc130/tasks/abc130_d
 
 #![allow(unused_imports)]
 use proconio::{input,marker::*};
