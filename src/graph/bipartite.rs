@@ -1,4 +1,5 @@
 // 二部グラフ判定
+// ref: https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ao
 
 fn bi_partite(nd: usize, list: &Vec<Vec<usize>>, col: &mut Vec<isize>) -> bool {
   for &nex in list[nd].iter() {
